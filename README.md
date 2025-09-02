@@ -11,3 +11,9 @@ cd bookmarks_bot
 pip3 install discord.py sqlite --break-system-package
 python3 -m main.py
 ```
+
+Przed uruchomieniem bota utwórz plik `.env` i wklep tą wartość
+
+```env
+token=tutaj_token_twojego_bota
+```
