@@ -5,7 +5,7 @@
 Bot służy do zapisywania wiadomości z każdego serwera. Nie obsługuje jednak DM'y.
 
 
-```shh
+```sh
 git clone https://github.com/Pawelek-dev/bookmarks_bot.git
 cd bookmarks_bot
 pip3 install discord.py sqlite --break-system-package
